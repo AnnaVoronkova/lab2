@@ -32,7 +32,7 @@ Student::Student() {
 
 void Student::set_student() {
 	cout << "Enter name: ";
-	cin >> Surname;
+	cin >> Surname;////
 	cout << "Enter number of group: ";
 	cin >> numb_of_group;
 	cout << "Enter number of subjects: ";
